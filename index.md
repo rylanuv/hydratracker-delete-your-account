@@ -8,12 +8,9 @@ Delete Your Account
 You can delete your account directly inside the app.
 
 Steps
-
-Open the app
-
-Go to Settings
-
-Tap Delete Account
+1. Open the app
+2. Go to Settings
+3. Tap Delete Account
 
 That’s it.
 
@@ -26,6 +23,8 @@ Your account is removed
 Your data is deleted from our system
 
 Deleted data cannot be recovered.
+
+Account deletion happens immediately or within a short period of time.
 
 Data Use
 
